@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCfKbsWV86BfbDjLFdsj+5SduOOPWy36prEQoBKc7+5skOKE33iidx7yf1sC24/KAbvmaT/qflTII/evLtpE3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marky\\Desktop\\Epicodus Projects\\Week 8\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
